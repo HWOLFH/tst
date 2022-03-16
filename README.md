@@ -1,5 +1,1 @@
-{
-  "title": "قرعه کشی",
-  "text": "برنده اقای سید حسین پیغمبری هست",
-  "on_off": true
-}
+https://s6.uupload.ir/files/polish_۲۰۲۲۰۳۱۵_۱۶۰۴۴۳۲۷۸_46sq.jpg
